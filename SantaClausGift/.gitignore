@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Windows image file caches
+Thumbs.db
+
+/Library
+/Temp
+/Builds
+/.vs
+/*.sln
+/*.csproj
+
